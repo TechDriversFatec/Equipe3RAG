@@ -29,3 +29,4 @@ Nosso trabalho envolve tecnologias como:
     - Sensores para captar informações do ambiente: DHT22(Temp./Umi. do ar), Módulo de Bluetooth, Sensores de Chuva e Umidade do Solo
     - Mini bomba de água para irrigação
     - Fonte 12v 3A para alimentação do circuíto
+# Equipe3RAG
